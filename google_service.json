@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lottomanager-b7ad0",
+  "private_key_id": "52ac96d882b7c3a9ceeef676f41e676b07978383",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2ypUoq3HbTVDI\n0OJd9JSithr8Tvf0CPEUo5ZHKfPJXJAFO1qND+Cd/6fig02hZlgiIy602YftuzY4\nAfqbOLLBXFbChwB4PDuAqrLPIazOt8Jkz2eYO8tSTqcGm4MQIcduoBPZGRZFVv9M\ns4zgwMnGbhjFYWS1iW2gQY8e8hwOhD7cbTkvlSW+d+TkgL6VkOw0n13aI1SL0mPp\nrAxeVI/zBQpfdPrSOgddU/mHi9ZND30CavENTgTh8fB9ZgXJp3wxEukrhdLt7XuG\ngt5A/jX3YGd5zohsNkV5uRkUh2DkYimyMN3dSWN6Kha/Ky8ErbwLX2SIgmy0jRpl\n4FNSwDQ3AgMBAAECggEAVHR1Rj0wderbEG2yqUaABk2tWjYCSjZ3bNnIbUjs4nRp\n9oDd7Z8QYO/mWbng/FmVDvDCe7ymGSkOfAIuD9m6fax0SZymkucBdwlnZFxiw4AT\nyRArBSNbZcQBWAQyIhn5UxuTEBOPPqpbeszaol1w3MWxnEDLjzTX+dtQjTO/0tRu\nLX+YgbQ5rE3My+yB0wIbYwcS6tBM5l5D7Aa3kPb5rY93G+mvNpe4jIfa3/ec7RWR\nDAJSsOX0bCh0raLupvUpavEATLxX6SOfsUiZbX3RPl1JLUzV6vK3PGBab++V4l5o\nrbF2VIE38wi/u11RkyCxEsQnQ3H5irVfzCgE7MalAQKBgQDyEm+fynB+oVPEmwov\ntqwJJVuIL1CrwRtF0A+qhsuoZvQq4xBBfNmSc+rNZZzOc5RKq3IjtKFSx9P0P0TB\niAzSvHa0mGXaIFcVaRuq6S9IyPX45AfgHeSVULYwsSL9YFymKlBP1GBrokEzrj/u\nG6h05qc8kJzuPpz9I0L+Z2B1pwKBgQDBTvsLwWztLfyeJFH8gwMQ335bTIMODaXI\nluq9wtnGKh7EM0XbFMtCn2oOgn78LTFaxbrtPjlDxVQnelQo6mPOc4HveG/x/kFO\nd/bnIlCpcWMhmBeoTsmFBDiezGmuxwMNm4p9E1RnM/Sh1K5FtWVI32qg+LKXClbU\nz0w6TFU+8QKBgQDpC3ClH+p/LmcLzsrWtoEW6P0etZZvU6Ai7LQ4Uj78p+kG5MSA\nl2aKxMfW5603YDPyUu22jC4HGNPnv4U83/KgasnJATKE9T+BIEh/mLBp3PZYn4cp\nbv3h9esAI3hw//USD4hz4hzVYkZtL6LiY4QgzvFPsFU0U9klJm5Xp0RI3wKBgEWj\n6Hkxs8Y2fP2T5B1uLVqUyXamt8gGTqVXCTZXzhC/99mDBzWH5joYKCMWDB1ZQqCK\n/26crhCmNE0Mmukql842eqcE4n9xs6FLQp2+FQUWHjpqCovN5nePL761sZUPiSAL\n2vZ4Uj3jz8vFTQs78EMyib14Gw6i4OlFzRZrjYJhAoGAYSQUnN4IqYe9Syt5BylH\nmcPPza1YasY+MMiitlndnNdrqaP8/2X4A9e5YLk5tb2Mf/mP8Xywp86OiUc4rCS5\nGEObpMEb19zDctqSvwsPTsk23VUBCbfqlsI0fhYo1W1N06dN1CvPhU49UWx2MlAG\nP212dFzVJ3vZnBROF1ZT4bw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-nwmzz@lottomanager-b7ad0.iam.gserviceaccount.com",
+  "client_id": "103251887565094307248",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nwmzz%40lottomanager-b7ad0.iam.gserviceaccount.com"
+}
