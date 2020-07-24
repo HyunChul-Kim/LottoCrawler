@@ -22,8 +22,13 @@ update_date = lotto_ref.get().to_dict()['update_date']
 update_count = utils.gab_of_weeks(update_date)
 # crawling
 if utils.is_saturday() and update_count > 0:
-    for lotto_round in range(latest_round + 1,  latest_round + update_count + 1):
+    update_round = int(latest_round)
+    for lotto_round in range(int(latest_round) + 1,  int(latest_round) + update_count + 1):
         winning_info = crawler.getWinningInfo(lotto_round)
         winning_ref.document(str(lotto_round)).set(winning_info)
+        update_round = lotto_round
         print("completed "+str(lotto_round)+" round")
-    lotto_ref.get().to_dict()['update_date'] = datetime.datetime.now().strftime('%Y-%m-%d')
+    lotto_ref.update({
+        'latest_round': update_round,
+        'update_date': datetime.datetime.now().strftime('%Y-%m-%d')
+    })
